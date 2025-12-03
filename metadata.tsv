@@ -1,0 +1,7 @@
+sample	R1	R2
+sample1	data/sample1_R1.fastq.gz	data/sample1_R2.fastq.gz
+sample2	data/sample2_R1.fastq.gz	data/sample2_R2.fastq.gz
+sample3	data/sample3_R1.fastq.gz	data/sample3_R2.fastq.gz
+sample4	data/sample4_R1.fastq.gz	data/sample4_R2.fastq.gz
+sample5	data/sample5_R1.fastq.gz	data/sample5_R2.fastq.gz
+sample6	data/sample6_R1.fastq.gz	data/sample6_R2.fastq.gz
